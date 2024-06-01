@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://kaggle.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanavmh" height="30" width="40" /></a>
 <a href="https://instagram.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanavmh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kanavmahj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanavmahj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kanvmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanvmh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanvmh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
