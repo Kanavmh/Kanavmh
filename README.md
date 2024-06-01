@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hiii 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kanavmh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanav-mahajan-3462b1283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanav-mahajan-3462b1283" height="30" width="40" /></a>
-<a href="https://kaggle.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanavmh" height="30" width="40" /></a>
-<a href="https://instagram.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanavmh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kanavmahj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanavmahj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanvmh" height="30" width="40" /></a>
-</p>
 
 
 # 💻 Tech Stack:
@@ -34,4 +25,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kanavmh&theme=swift&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanavmh&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kanavmh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanav-mahajan-3462b1283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanav-mahajan-3462b1283" height="30" width="40" /></a>
+<a href="https://kaggle.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanavmh" height="30" width="40" /></a>
+<a href="https://instagram.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanavmh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kanavmahj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanavmahj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kanavmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanvmh" height="30" width="40" /></a>
+</p>
